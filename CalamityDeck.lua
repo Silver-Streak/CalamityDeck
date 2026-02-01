@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: TheCalamityCrewyCards
+--- MOD_NAME: TheCalamityCrewCards
 --- MOD_ID: CalamityCrew
 --- MOD_AUTHOR: [Silver-Streak]
 --- MOD_DESCRIPTION: Change all of the face and ace cards to The Calamity Crew themed cards
